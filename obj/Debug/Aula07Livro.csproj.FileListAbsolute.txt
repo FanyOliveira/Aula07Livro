@@ -1,0 +1,7 @@
+C:\Users\rafany.cojesus\source\repos\Aula07Livro\Aula07Livro\bin\Debug\Aula07Livro.exe.config
+C:\Users\rafany.cojesus\source\repos\Aula07Livro\Aula07Livro\bin\Debug\Aula07Livro.exe
+C:\Users\rafany.cojesus\source\repos\Aula07Livro\Aula07Livro\bin\Debug\Aula07Livro.pdb
+C:\Users\rafany.cojesus\source\repos\Aula07Livro\Aula07Livro\obj\Debug\Aula07Livro.csproj.CoreCompileInputs.cache
+C:\Users\rafany.cojesus\source\repos\Aula07Livro\Aula07Livro\obj\Debug\Aula07Livro.exe
+C:\Users\rafany.cojesus\source\repos\Aula07Livro\Aula07Livro\obj\Debug\Aula07Livro.pdb
+C:\Users\rafany.cojesus\source\repos\Aula07Livro\Aula07Livro\obj\Debug\Aula07Livro.csproj.AssemblyReference.cache
